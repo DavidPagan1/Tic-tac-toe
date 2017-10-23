@@ -1,8 +1,4 @@
 # Tic-tac-toe
 First attempts at learning how to program.
-x = [0,1,2]
-y = [2,3,4}
-while True:
-    if x in range(0,3): 
-        print(okay)
-       
+
+We are going to create a tic tac toe game.
